@@ -1,0 +1,335 @@
+Por efecto túnel se entiende en física el paso de un sistema de un estado a otro de manera que se viole,en algún momento de la transición,el principio de conservación de la energía.
+El paso de un electrón a través de una barrera de energía está clásicamente prohibido,pues el electrón tendría energía cinética negativa mientras estuviese por debajo de ella.
+Sin embargo,cuánticamente,el principio de indeterminación impide que la posición y la velocidad puedan medirse simultáneamente con precisión absoluta ; las expresiones estadísticas de los valores de una y otra será,en el mejor de los casos,inversamente proporcionales.
+Según la mecánica cuántica,la probabilidad de que la variable posición del electrón caiga bajo la barrera puede ser apreciablemente distinta de cero.
+Mediante el efecto túnel se explican procesos que ocurren a escala microscópica en los campos más variados: I) la ionización de átomos de hidrógeno en presencia de campos eléctricos (física atómica) ; 2) la emisión de partículas a por núcleos radiactivos (física nuclear) ; 3) el paso de electrones entre metales separados por un aislante (electrónica) ; 4) el paso de parejas de electrones,llamadas parejas Cooper,entre dos superconductores separados por un aislante (superconductividad).
+En todos estos casos,se entiende que un objeto microscópico,sea un electrón,una partícula a o una pareja de electrones,pasa por efecto túnel a través de la barrera que separa dos posiciones diferentes del objeto de que se trate.
+Lo que se observa en las dimensiones atómicas y moleculares,¿puede también ser observado a otra escala diferente? O dicho de otra manera,¿puede una variable clásica macroscópica experimentar el efecto túnel?,¿existe el efecto túnel cuántico macroscópico? La respuesta es afirmativa,pero la probabilidad matemática de que se dé el efecto - - de que,por ejemplo,aparezca una persona al otro lado de una montaña sin subirla ni perforarla - - es ínfima ; si,además.
+tenemos en cuenta la disirpación de energía - - el rozamiento del cuerpo con el suelo en el ejemplo anterior - -,la posibilidad desaparece totalmente.
+Pero,¿qué ocurre a una escala intermedia? ¿Habrá efecto túnel para sistemas mesoscópicos,cuyo orden de magnitud es varias veces el atómico? Uno de los descubrimientos más fascinantes en materia condensada de los años ochenta fue la observación por vez primera del efecto túnel cuántico del flujo magnético en superconductores por Voss y Webb.
+Con posterioridad,en 1988,Chudnovsky y Gunther predijeron teóricamente que el efecto túnel mesoscópico podía ser observado también en sistemas magnéticos.
+El momento magnético es la magnitud que determina la interacción de un sistema de cargas eléctricas con un campo magnético exterior,y es proporcional a la suma de su momento cinético orbital y su espín totales ; por efecto de esa interacción,el campo tiende a hacer girar el momento magnético hasta alinearlo consigo.
+Los efectos magnéticos de la materia se deben al momento magnético total de los átomos que componen un material magnético - - en concreto,de los electrones de las capas incompletas - -.
+En una sustancia ferromagnética la interacción interna,o de canje,entre los espines tiende a alinear los momentos magnéticos de sus átomos.
+Esta interacción es isótropa,pero la estructura cristalina del material determina ciertas direcciones en las que es energéticamente favorable el alineamiento.
+A este fenómeno se le llama anisotropía magnética,y a esas direcciones,ejes de fácil imanación.
+Un campo externo cuya dirección no coincida con la de un eje de fácil imanación deberá aportar la energía suficiente para rotar los momentos alineados hasta que sean paralelos al campo (energía de anisotropía).
+Un cuerpo ferromagnético se divide en dominios ; dentro de cada uno de ellos los momentos son todos paralelos entre sí,pero la dirección de alineación cambia de un dominio a otro.
+Supongamos que hay varias orientaciones para las que la energía de anisotropía es localmente mínima ; entre ellas habrá entonces barreras de energía que el momento magnético sólo podrá saltar,clásicamente,si se dispone de una energía mayor que la altura máxima de la barrera.
+Pensemos,por ejemplo,en una partícula magnética que tenga sólo un dominio cuya energía de anisotropía sea mínima en dos direcciones opuestas.
+La activación térmica aporta la energía suficiente para que el momento salte la barrera de energía existente entre las dos direcciones a un ritmo determinado por un factor que es exponencialmente decreciente con la razón entre la altura de la barrera y la energía térmica (la energía térmica,a su vez,es proporcional a la temperatura).
+Cuando el factor decrece,disminuye la probabilidad de que el momento salte la barrera.
+En el cero absoluto el factor,y con él la probabilidad de salto,se anulan,es decir,deberíamos esperar un tiempo infinito para que el momento cambiara su orientación.
+Pues bien,la teoría de Chudnovsky y Gunther predice que,por debajo de una cierta temperatura de transición,el momento puede cambiar su orientación espontáneamente atravesando por efecto túnel cuántico la barrera ; la frecuencia de salto,predice también,es entonces independiente de la temperatura ; de esa manera,el vector de magnetización (es decir,el momento magnético total) puede,según la teoría,cambiar de orientación a través de la barrera incluso en el cero absoluto.
+El sistema ideal para contrastar esta predicción sería un conjunto de partículas monodominio con idénticas barreras de energía y que no interactuasen entre sí.
+Sería muy difícil obtener en la práctica algo así.
+Afortunadamente,también en sistemas magnéticos complejos,con alta metaestabilidad y una gran distribución de barreras de energía,cabe registrar el efecto túnel magnético.
+Un conjunto de partículas monodominio interactuantes entre sí o un cristal ferromagnético con muchos defectos son materiales de este tipo.
+Si se les aplica un campo magnético,su momento magnético (la magnetización) evoluciona con el tiempo en dos etapas.
+En la primera,la rápida,el cambio se debe a la rotación de la magnetización local en zonas en las que el campo magnético aplicado ha destruido las barreras.
+Termina esa fase cuando las rotaciones locales de la magnetización tropiezan con nuevas barreras que el campo no destruye.
+No hay,por lo tanto,en general,cuando el cambio de campo consiste en la supresión de un campo previamente aplicado o en la aplicación de un campo opuesto,una desimanación completa ; quedará una imanación residual,cuyas evolución posterior,más lenta,se deberá a transiciones térmicas por encima de las barreras o a su través por efecto túnel cuántico.
+Estas transiciones ocurrirán a un ritmo cuya escala temporal será precisamente la del experimento que se lleve a cabo para detectar la existencia de dicho efecto túnel.
+Y la detección se basará en la predicción de Chudnovski y Gunther: si los saltos de barrera están activados térmicamente,la relajación del sistema,es decir,la evolución de la magnetización con el tiempo,dependerá de la temperatura ; si,por el contrario,son de naturaleza cuántica,es decir,por efecto túnel,la relajación será independiente de la temperatura.
+Hemos realizado el experimento.
+Utilizamos una aleación de Fe3Tb de 30 angstroms de espesor.
+Este material está formado,desde el punto de vista magnético,por pequeños microagregados,cada uno de los cuales tiene su propia magnetización.
+Variamos el campo magnético que actuaba sobre la muestra y observamos a diferentes temperaturas la evolución de su magnetización remanente.
+La magnetización remanente toma,en función del logaritmo neperiano del tiempo,forma de recta.
+La viscosidad magnética es,por definición,la pendiente de tal recta.
+La manera en que la viscosidad depende de la temperatura nos indica cuán rápidamente cambia de dirección la magnetización y de qué manera depende de la temperatura el ritmo de cambio.
+A temperaturas mayores que S grados kelvin observamos que la viscosidad magnética dependía linealmente de la temperatura.
+Pero por debajo de los 5 °vimos que se independizaba de ésta ; por lo tanto,lo mismo le ocurría a la magnética " Esto era exactamente lo que se esperaba si en verdad había efecto túnel de la magnetización.
+Además,la transición del régimen clásico al régimen cuántico es muy nítida,lo que está también de acuerdo con la teoría,que predice un cambio brusco de régimen si la disipación el rozamiento - - es pequeña.
+La perfecta correspondencia entre nuestras observaciones experimentales,en éste y otros muchos materiales ferro y antiferromagnéticos,y las concepciones teóricas clásicas y cuánticas indican que nuestras observaciones son coherentes con la existencia del efecto túnel cuántico de la magnetización.
+Hasta hace poco,la ecología de las aguas continentales se circunscribía al estudio de los lagos.
+Contribuía a ello su relativa sencillez,ya que se trata de sistemas casi cerrados,cuyo funcionamiento se explica,en gran medida,por su propia dinámica.
+Los ríos,por contra,son sistemas abiertos,cambiantes a lo largo de su curso y sometidos al influjo del clima y las características de la cuenca ; en consecuencia,hemos de abordar la red hidrográfica entera e interpretar los resultados de conjunto,tarea nada fácil si se trata de una cuenca extensa.
+Se entiende,pues,que los primeros estudios dividieran el río en segmentos distintos según la pendiente,la velocidad del agua y las comunidades que medraban allí.
+Esa situación comenzó a cambiar en los años sesenta,hasta imponerse,en los ochenta,la teoría del gradiente continuo aplicada al río.
+De acuerdo con dicho modelo,las características físicas,químicas y biológicas de un río inalterado varían a lo largo de su recorrido siguiendo gradientes predecibles.
+El nuevo enfoque ha constituido un marco conceptual donde acomodar los resultados y ha servido de punto de referencia para proponer hipótesis alternativas,además,ha introducido un método experimental gracias al cual se conocen mejor el funcionamiento de esos ecosistemas y se abre el camino para establecer criterios en que apoyar su gestión.
+La región mediterránea,semiárida,experimenta una amplia variabilidad climática interanual,condiciones que confieren a las aguas continentales rasgos propios ; así,faltan grandes lagos en las zonas no montañosas,y los ríos presentan fluctuaciones de caudal que lo mismo producen inundaciones catastróficas que se secan en estiaje.
+La actividad humana es,junto con el clima y las características geomorfológicas y ecológicas de la cuenca,otro factor incidente sobre las aguas continentales.
+En la zona mediterránea sus efectos se han agudizado en lo que va de siglo,paralelamente con el crecimiento demográfico,pero su origen se remonta en la historia.
+Los embalses más antiguos de Europa (Cornalvo y Proserpina) se encuentran en Extremadura y datan de la época romana,igual que algunos sistemas de aprovechamiento del agua y de prevención de inundaciones.
+En los últimos años el incremento en la demanda de agua y de suelo utilizable ha llevado a la construcción de embalses y sistemas de regadío,la canalización de cauces y un sinnúmero de actuaciones menores sobre la mayoría de los ríos.
+Mientras la densidad de población se mantuvo baja,la utilización de los ríos para deshacerse de las aguas residuales no encerraba mayores problemas: los ríos son sistemas de transporte que en su recorrido autodepuran total o parcialmente los vertidos que reciben.
+Pero la situación ha cambiado.
+Por un lado se aprovecha su caudal hasta dejarlos casi exhaustos y,por otro,van a parar a ellos las aguas residuales,convirtiéndose durante el estiaje en cloacas a cielo abierto.
+Esa tendencia se ha acentuado tanto que,en muchos casos,la actividad humana es el elemento determinante de su funcionamiento como ecosistemas.
+Las redes fluviales son sistemas de drenaje hacia el mar del exceso de lluvia que cae sobre los continentes respecto de la evaporación total.
+Transportan sales en disolución y sólidos en suspensión y acogen el desarrollo de organismos que,con su intervención,añaden un componente diferenciador al funcionamiento de los ríos.
+En la península Ibérica las cuencas que vierten al Mediterráneo representan un 31 % de la superficie total.
+Cuando los ríos son de régimen nivopluvial,no suelen secarse aunque sufran notables oscilaciones de caudal.
+En zonas de precipitación escasa presentan un régimen intermitente y se secan en verano.
+Tomaremos como ejemplo conductor del artículo el comportamiento del río Ter,que simboliza bien la dinámica hidrológica de un río mediterráneo permanente.
+Nace en los Pirineos y desemboca,después de un recorrido de aproximadamente 200 kilómetros,en el Mediterráneo.
+Su régimen hidrológico en la mitad superior difiere del que muestra en el resto de su recorrido.
+En la parte superior,las aportaciones medias de caudal mensual de 1954 a 1988 evidencian un comportamiento bimodal,característico de la mayoría de los ríos de régimen mediterráneo.
+El máximo caudal anual se produce en mayo (28,6 Hm3) y el segundo en noviembre (17,6 Hm3).
+Entre ambos máximos se sitúan dos mínimos de magnitud similar en agosto (11,4 Hm3) y en febrero (14,2 Hm3).
+En el tramo inferior el caudal del río está controlado por los embalses de Sau,Susqueda y,en menor medida,de Pasteral.
+Además,se desvían alrededor de 6 m3 / s para suministro de la ciudad de Barcelona.
+Aunque las regularidades en las fluctuaciones de caudal encierran un sentido estadístico,no predictivo,revisten obvio interés para la gestión de los recursos hídricos de una cuenca.
+El carácter estacional de tales fluctuaciones no impide que se produzcan frecuentes desviaciones del patrón ; el estudio de los datos revela que,junto con ciclos de 3 y 6 meses,aparecen ciclos menos importantes,pero próximos a los estacionales,que indican que el verano se alarga o la primavera llega antes de lo esperado.
+Al margen de estos ciclos cortos,emergen otros mucho más largos con períodos que oscilan entre 7 y 11 años,relacionados con fluctuaciones climáticas.
+Los ríos van aumentando progresivamente su caudal a lo largo de su recorrido según una función potencial del área drenada.
+Tal relación implica que,cuando convergen afluentes de similar magnitud,se produce un incremento instantáneo de caudal que rompe con una previsible tendencia de progresión lineal.
+Se da,pues,una alternancia de cambios progresivos y discontinuos que afectan significativamente a la estructura y el funcionamiento del río.
+Cambios semejantes se detectan en los sólidos disueltos y en suspensión que transporta el río.
+La cantidad total de sólidos en suspensión en un punto determinado guarda relación directa con el caudal.
+En el Ter,esa cuantía es baja en la cabecera (de uno a cuatro miligramos por litro) y aumenta progresivamente a lo largo del tramo medio ; en los puntos que drenan zonas perturbadas o con materiales susceptibles de ser erosionados se registran incrementos bruscos.
+Los embalses,sin embargo,actúan como cubetas de decantación,por lo que,si aguas arriba de ellos se hallan valores cercanos a 80 miligramos por litro,a su salida este valor se reduce hasta 10 mg x litro y el río recupera la transparencia.
+Las variaciones de caudal intensifican los cambios espaciotemporales en el transporte de compuestos disueltos y particulados.
+En el Ter se ha detectado una relación inversa entre el caudal y la concentración de la mayoría de los iones en disolución,sobre todo de fósforo,nitrógeno y carbono,nutrientes limitantes para el desarrollo de los productores primarios y las bacterias.
+Durante las épocas de mayor caudal se registra un descenso,por efecto de la dilución,de las formas de fósforo tanto orgánicas como inorgánicas.
+En los episodios de crecida súbita de caudal,la tendencia puede invertirse debido a los aportes difusos de aguas de escorrentía que recogen lixiviados provenientes de las granjas y al lavado de suelos agrícolas y forestales.
+El efecto descrito puede variar considerablemente en función de la hidrología anual.
+El incremento de las concentraciones de nitratos que presentan las aguas del Ter después de una avenida en un año considerado seco es más del 60 % de sus concentraciones basales.
+En cambio para años húmedos,el incremento no supera el 10 %,e incluso en algunos casos las concentraciones de nitratos disminuyen.
+Las características geomorfológicas de la cuenca y los procesos que allí se desarrollan influyen directamente en la composición del agua del río que la drena.
+También el caudal medio,la anchura del río y el tipo de sustrato que forma su lecho se deben,en buena parte,a la interacción entre el clima v la cuenca cuenca hidrográfica es un sistema abierto donde se desarrolla una interacción asimétrica entre dos ambientes vinculados,el terrestre y el acuático.
+El medio terrestre controla y modifica,hasta cierto punto.
+La cantidad y las características físicas y químicas del agua que circula hasta el río.
+Se calcula que,por término medio,la escorrentía superficial es del orden del 25 % al 40 % de la precipitación total sobre la cuenca.
+Si el agua no es interceptada por la vegetación o no se evapora,se infiltrará a través del suelo.
+En cuencas poco forestadas asistimos a la formación de ríos de estructura hidrográfica poco ramificada y de gran poder erosivo ; en estos sistemas,el aumento de sólidos en suspensión y nutrientes puede ser de varios órdenes de magnitud después de una avenida.
+En cambio,este efecto es mucho menor en ríos situados en cuencas más forestadas o con vegetación en equilibrio con el clima: las raíces sujetan el suelo e incrementan las tasas de infiltración normales,facilitando la jerarquización de los cursos fluviales.
+La causa principal de la variación de caudal es la lluvia.
+El análisis de los hidrogramas realizados inmediatamente después de una tormenta,basados en la interpretación de la velocidad con que se reduce el caudal o señal de descarga hasta su nivel basal,permite calcular la respuesta hidrológica de la cuenca.
+La magnitud de la respuesta está determinada por la cantidad y distribución espaciotemporal de la lluvia caída y por las condiciones antecedentes de humedad,que dependen de la capacidad de saturación hídrica de los suelos y de la reserva de agua subterránea.
+Así,en los suelos secos y permeables de la región mediterránea,la mayor parte del agua queda retenida en el suelo,a no ser que se trate de una precipitación muy intensa ; las únicas zonas saturadas de agua se encuentran en las proximidades del cauce,por cuyo motivo la respuesta hidrológica se produce de forma inmediata después de una precipitación.
+En la respuesta de la cuenca interviene también la vegetación.
+Como ha demostrado J. Piñol,de la Universidad Autónoma de Barcelona.
+existe una estrecha dependencia entre el potencial de evapotranspiración y las precipitaciones registradas,dependencia que no se da entre precipitación y caudal.
+Esta situación contrasta con los resultados encontrados por Likens y sus colaboradores en una cuenca experimental de Hubbard Brook (New Hampshire),donde el clima es atlántico y,por tanto,mucho más húmedo y frío: las variaciones de caudal muestran una evidente dependencia del nivel de precipitaciones.
+En Hubbard Brook y otras regiones donde el nivel de precipitación es mucho más alto que la evapotranspiración,se drena siempre el exceso de agua caída ; en la región mediterránea,la demanda potencial de evapotranspiración suele ser más elevada que la cantidad de lluvia y,por ende,los registros de caudal,después de un período seco,no reflejan la cantidad de agua caída.
+En los ríos mediterráneos adquiere una especial relevancia la zona subsuperficial o hiporreica,auténtica interfase entre el ambiente terrestre y el acuático de la cuenca y conexión,al propio tiempo,entre el medio acuático superficial y el subterráneo.
+J. Ward,de la Universidad de Colorado,sugiere que el medio hiporreico forma una zona de fuerte gradiente vertical de condiciones ambientales en la que se producen intercambios de materia y energía entre las aguas superficiales y las subterráneas.
+Los cambios de caudal del río reflejan las interacciones entre la zona superficial del río y la hiporreica.
+Así,un aumento de caudal no sólo afecta a la estructura de las comunidades que viven en la superficie,sino que puede vaciar o rellenar la zona hiporreica de material detrítico,con obvios efectos para la fauna que habita en los espacios intersticiales.
+La laguna hiporreica vive a expensas de la materia orgánica atrapada entre el material aluvial y puede llegar a soportar,entre otras condiciones,concentraciones bajas de oxígeno disuelto.
+En los ríos,los organismos están adaptados a desplazarse,alimentarse y reproducirse bajo una capa fluida en constante movimiento.
+Su morfología corporal,lo mismo en vegetales que en animales,converge hacia ciertas formas comunes,que tienden hacia un hidrodinamismo óptimo.
+Las fluctuaciones de caudal les exigen adaptaciones adicionales.
+Animales y vegetales han desarrollado estrategias adaptativas diversas para sobrevivir en épocas secas.
+Algunos tienen estadios resistentes (ciertas algas),mientras que otros buscan la humedad enterrados en el medio hiporreico (larvas de insectos) o bien se refugian en ambientes húmedos freáticos cercanos (crustáceos).
+Otros,así los insectos acuáticos,han acoplado sus ciclos vitales a la producción de una fase adulta y voladora que tiende a sincronizar su emergencia con los momentos críticos de las fluctuaciones.
+El desafío es evidente: si perecen antes de alcanzar la madurez,mermará el número de individuos que completen el ciclo biológico,con el peligro consiguiente para la continuidad de la especie en el río.
+Los súbitos incrementos de caudal comportan cambios importantes en el tipo de flujo y en la fuerza física que los organismos tienen que vencer.
+En cada crecida y en función de su intensidad,los mejor adaptados se libran del arrastre por la corriente.
+En los ríos intermitentes del Canadá,sujetos a fuertes variaciones de caudal,D. D. Williams y Noel Hynes observaron que el número de especies de macroinvertebrados y peces,así como la abundancia de sus poblaciones,bajaba después de crecidas de tipo medio,para recuperarse a las dos semanas ; pero cuando la avenida era mucho mayor,hasta el extremo de alterar el cauce,la mayoría de los organismos eran arrastrados y la recuperación de las comunidades del río se demoraba mucho más.
+La recuperación de las comunidades después de crecidas importantes puede ser muy rápida cuando se trata de microorganismos con intervalos de generación cortos,lo que facilita el establecimiento de otras especies de vida más larga.
+En un ensayo llevado a cabo en condiciones simuladas en un río artificial,M. A. Lock,de la Universidad de Bangor,halló cambios notables en la estructura y en la actividad de la comunidad de microorganismos que coloniza las piedras del cauce al pasar directamente de condiciones de velocidad de 60 centímetros por segundo a 237 cm / s,manteniendo tales condiciones durante doce horas.
+Algunas de las diatomeas más adaptadas a condiciones de velocidades elevadas,como Cocconeis,resultaron dañadas,y la concentración de bacterias sobre la piedra disminuyó.
+Sin embargo,dos días después de restablecer las condiciones iniciales de velocidad,la comunidad volvía a manifestar las características de actividad precedentes.
+Observamos un fenómeno parecido en la naturaleza.
+La avenida que se produjo en el río Ter el 8 de noviembre de 1982 alcanzó los 802 metros cúbicos por segundo de agua a la entrada en el embalse de Sau,lo que produjo el arrastre y desaparición de buena parte de las algas y de la mayoría de los macroinvertebrados.
+Las velocidades de recuperación hacia las condiciones originales fueron distintas: la comunidad de algas al cabo de un mes no difería significativamente de la anterior a la avenida,pero los macroinvertebrados necesitaron tres meses para recuperarse.
+En el restablecimiento de las comunidades desempeñan un papel destacado los afluentes menos afectados por la crecida,que mantienen su capacidad potencial de colonizar el resto del sistema.
+La propia estructura jerárquica de la cuenca posibilita que la multitud de afluentes de orden inferior sean meras réplicas de unas mismas condiciones ambientales que determinan el asentamiento de comunidades fluviales paralelas.
+Por ello,curso abajo,el río cuenta con mayores oportunidades que los afluentes de cabecera para volver a restablecerse después de una avenida.
+De forma similar el medio hiporreico puede proporcionar refugio a pequeños organismos frente a cualquier eventualidad.
+Se ha comprobado que éstos se desplazan hacia el medio hiporreico en busca de comida y refugio frente a adversidades tanto físicas (avenidas) como biológicas (depredación).
+Es común hallar un aumento de la densidad de organismos en el medio hiporreico después de una avenida.
+El drenado de la cuenca hidrográfica implica un aporte neto de materia orgánica (hojas y ramas) y mineral (arenas,limos y nutrientes en disolución).
+La materia orgánica que procede de la cuenca se denomina alóctona para distinguirla de la que se produce en el propio río como resultado del aprovechamiento de la energía solar por los productores primarios que viven en él (algas,musgos y macrófitos),que se considera autóctona.
+Estos dos tipos de materia orgánica constituyen las fuentes de energía para los organismos heterótrofos del río.
+En el largo proceso de descomposición de la materia orgánica,la resistencia a ser degradada ordena los materiales según su potencialidad energética.
+Bacterias y hongos colonizan las hojas,el material menos refractario ; digieren parcialmente su cubierta celulósica y facilitan así su aprovechamiento por animales trituradores (principalmente tricópteros).
+El material ingerido por los insectos está aún por desmenuzar.
+La acción de desmenuzamiento operada por estos animales convierte la materia orgánica de mayor tamaño en particulada fina,capturada a su vez por otros animales.
+Intervienen entonces las formas especializadas en la recogida de esos materiales finos.
+Las especies recolectoras toman el alimento del lecho del río ; las especies filtradoras separan las partículas que transporta el agua,mediante órganos apropiados o con la construcción de redes.
+La materia orgánica particulada fina,rica en energía,puede ser aprovechada por organismos heterótrofos.
+De la actividad de los organismos que procesan la materia orgánica particulada fina,de la lixiviación de la materia orgánica y de los materiales resultantes de la actividad de los productores primarios,se origina materia orgánica disuelta.
+En este apartado se incluyen los materiales húmicos - - polifenoles y productos derivados de ellos - - así como aminoácidos,hidratos de carbono,ácidos grasos,monómeros de lignina y productos de hidrólisis exoenzimáticas.
+Algunos de los componentes de la materia orgánica disuelta,pensemos en los hidratos de carbono,constituyen una fuente importante de energía,utilizada por microorganismos heterótrofos,principalmente bacterias y hongos,que crecen adheridos a substratos sólidos del lecho.
+En algunos ríos tropicales de aguas negras o boreales que drenan suelos ácidos,la materia orgánica disuelta puede representar entre el 70 % y el 80 % del total de carbono que entra en el sistema fluvial.
+(La cantidad total de carbono que transportan los ríos indica la energía potencialmente aprovechable por los heterótrofos.
+) Esta proporción es mucho más variable en los ríos mediterráneos.
+Por ejemplo,en el Ródano la proporción es del 25 %,mientras que en el Tíber y el Po oscila entre un 70 y un 75 % del carbono total transportado.
+EI medio hiporreico ejerce un papel activo en la dinámica de la materia orgánica ; sirve de almacén para la fracción transportada por el río e interviene en su procesado a través de la actividad metabólica de los organismos.
+En el medio hiporreico se retienen incluso moléculas de peso molecular elevado,por acción de las bacterias colonizadoras y por los procesos físicos de adsorción de partículas minerales y orgánicas.
+Por otro lado,el flujo de nutrientes del hiporreos a la superficie no es nada despreciable.
+J. Stanford,investigando los ríos de Montana,determinó la existencia de zonas de descarga desde el medio hiporreico hacia la superficie que influyen en la composición y en el incremento de biomasa de la comunidad algal que tapiza las piedras.
+El flujo se halla condicionado por la naturaleza de los materiales aluviales que forman el medio hiporreico.
+Los cambios en la geomorfología del río a lo largo de su recorrido determinan la permeabilidad del sustrato y,por tanto,las zonas preferentes de descarga hacia el medio superficial.
+La reciente canalización de lechos fluviales y la pérdida de los márgenes inundables en el curso bajo de muchos ríos del área mediterránea - - para reducir supuestamente el riesgo de inundación en la llanura aluvial - - inciden de manera negativa en el procesado del material orgánico que reciben continuamente.
+La luz que llega hasta el cauce es aprovechada por los organismos autótrofos.
+En los ríos mediterráneos,los organismos autótrofos bentónicos,es decir,aquellos que precisan de un soporte sobre el que vivir,abundan más que los que se mantienen en suspensión activa o pasiva (plancton).
+Los distintos ' autótrofos del bentos - - algas,briófitos y espermatófitos - - se hallan distribuidos según un patrón bastante habitual en los ríos mediterráneos ; las algas tienen una distribución ubicua,los briófitos proliferan en aguas rápidas y los espermatófitos prefieren trechos tranquilos.
+A pesar de estas diferencias,los factores que regulan la producción son,hasta cierto punto,comunes: físicos (luz,temperatura,velocidad de la corriente y tipo y estabilidad del sustrato) y químicos (nutrientes y composición iónica de las aguas).
+Las medidas de producción primaria recabadas en dos pequeños afluentes del río Ter - - la Riera Major y La Solana - - han permitido acometer las primeras comparaciones entre estos sistemas mediterráneos y ríos de otras regiones climáticas.
+La producción primaria de la comunidad bentónica se puede medir por los cambios en las concentraciones de oxígeno en cámaras que contienen una fracción representativa de dicha comunidad.
+Las cámaras de incubación,cerradas,están provistas de bombas que ponen en recirculación el agua y simulan el efecto de la corriente ; al situarse en el mismo punto del río en que se ha recogido la muestra,se reproducen las condiciones de luz y temperatura originales.
+La comparación de los resultados obtenidos en cámaras transparentes y oscuras permite medir,respectivamente,la producción neta y la respiración de la muestra,para extrapolar los resultados al conjunto de la comunidad bentónica.
+Los afluentes del Ter mencionados son de orden hidrológico bajo y no están afectados por ninguna actividad humana en su cuenca.
+La Solana es de sustrato geológico calcáreo y carece de vegetación riparia ; el lecho está colonizado por una comunidad incrustante de cianobacterias,cubierta durante el verano por otra de clorofíceas filamentosas.
+La Riera Major,de sustrato silíceo y densamente forestada,presenta la superficie del cauce colonizada mayoritariamente por la rodofícea hildenbrandia rivularis,sobre la que se desarrolla una delgada capa de diatomeas durante el otoño e inicio de la primavera.
+La producción primaria de ambos tributarios sigue un patrón de fluctuación bastante regular a lo largo del año,que concuerda con la cantidad de luz que llega al cauce.
+En La Solana la vegetación no se interpone al paso de la luz hasta el lecho del río en ningún momento del año ; por contra,en la Riera Major el desarrollo del bosque de galería sólo deja luz suficiente durante la parte final de otoño y el invierno,razón por la cual la producción anual es más elevada en La Solana que en la Riera Major.
+El balance entre la producción y la respiración a lo largo de un día se denomina metabolismo diario neto e indica qué procesos metabólicos predominan,si los autótrofos o los heterótrofos.
+Cuando se sigue la evolución de los valores del metabolismo diario neto de un río a lo largo del año se tiene un buen descriptor del balance energético en distintos momentos.
+Según los resultados obtenidos,los dos tributarios ofrecen condiciones de heterotrofia casi permanentes,o lo que es lo mismo,muestran balances negativos.
+Tal observación concuerda en el caso de la Riera Major con la previsible importancia de la luz,ya que su escasez limita la producción de las algas y,por tanto,sólo se dan condiciones autotróficas - - balance positivo - - en invierno,cuando los árboles han perdido las hojas.
+En La Solana,el único período de autotrofia ocurre en primavera,pese a recibir luz suficiente durante todo el año.
+A la vista de estos resultados hay que concluir que,si bien la luz constituye un factor muy importante en el metabolismo fluvial,éste puede hallarse modulado - por otros factores ambientales.
+- La Solana dispone de gran cantidad de luz y,a pesar de que la vegetación riparia sea poco importante,el aporte de materiales orgánicos - disueltos es elevado.
+La existencia.
+de condiciones heterotróficas debe,buscarse,por tanto,en la misma estructura de la comunidad que forman) los productores primarios,dispuestos - en una incrustación en carbonato cálcico de varios milímetros de espesor.
+- En su seno se asienta una comunidad bacteriana muy activa que determina - el predominio de los procesos heterotróficos del conjunto.
+Conviene detenerse en el análisis de la estructura y la función del complejo biológico que coloniza piedras,- madera o cualquier otro sustrato sólido del lecho del río y tiene un papel central en el aprovechamiento de la materia orgánica disuelta y,por tanto,en el balance energético fluvial los heterotróficos - - sobre todo bacterias y hongos - - forman un entramado con otros microorganismos autótrofos,algas y cianobacterias.
+La matriz está constituida por polisacáridos hidratados,con propiedades difusivas semejantes a las de un gel.
+En el seno de la matriz se mueven asimismo protozoos y pequeños invertebrados.
+En general,la capa viva que coloniza estos sustratos sólidos puede alcanzar un grosor de entre 100 micrómetros y unos pocos milímetros.
+Esta microcapa funciona de modo similar a otras semejantes en lagunas saladas o en filtros de depuradoras de aguas.
+Al conjunto se le denomina genéricamente biofilm.
+El papel de esta capa es clave en la dinámica energética del río.
+Destaca,entre sus propiedades físicas y biológicas,la capacidad para absorber o capturar el material disuelto.
+La capa retiene también los productos de hidrólisis enzimáticas extracelulares.
+Por su actividad,el biofilm constituye un auténtico microsistema que procesa los materiales disueltos y utiliza energía solar.
+Las algas absorben nutrientes inorgánicos y emplean la energía solar,mientras que los heterótrofos aprovechan la materia orgánica disuelta,así como los excedentes sintetizados por los productores primarios vecinos.
+En los biofilms de mayor grosor se puede dar un alto grado de complejidad.
+Lo hemos comprobado en La Solana.
+El gradiente vertical de luz,nutrientes y potencial redox justifica posibles variaciones en la distribución de autótrofos y heterótrofos,e incluso de aeróbicos y de anaeróbicos,en las distintas capas.
+Aunque ignoramos cuál es la distribución vertical de gases disueltos y nutrientes en el seno del biofilm de La Solana,la existencia del funcionamiento heterotrófico sugiere que existe una importante actividad de bacterias heterótrofas.
+Es muy posible que tan sólo la parte superficial de la incrustación se halle controlada funcionalmente por los autótrofos (algas),y que el resto lo esté por organismos capaces de aprovechar la materia orgánica disuelta.
+Sin embargo,la existencia de clorofila activa en todo el grosor de la incrustación mueve a pensar que la partición funcional tiene un límite espacial difuso y,posiblemente,variable en el tiempo.
+La materia orgánica disuelta alcanza en La Solana valores elevados,de 1,3 a 2 miligramos por litro de carbono orgánico disuelto,que puede quedar atrapada en el biofilm por adsorción o por precipitación conjunta con el carbonato cálcico,para su consumo posterior por bacterias quimiolitótrofas o quimioorganótrofas.
+La trascendencia del biofilm en la dinámica energética del río se pone de manifiesto al medir los cambios en la asimilación de nutrientes a lo largo del río.
+Podemos medir la disminución de la concentración de los nutrientes - - corregida para la dilución - - a lo largo de un tramo de río y calcular la distancia media que tarda el nutriente en ser incorporado por el sistema.
+Al efectuar esta medición en tramos de distintas características o en diferentes situaciones de luz y temperatura se obtiene un índice de la respuesta conjunta del sistema a la absorción del nutriente.
+Tales diferencias pueden ser atribuidas al tipo de substrato entre los dos tramos,aunque también a las diferencias entre los biofilms que hay en cada uno.
+En el caso de La Solana,con un medio hiporreico escaso,las diferencias se deben a la actividad del biofilm.
+Para conocerlo predominan los procesos de autotrofia sobre los de heterotrofia en el biofilm,podemos - medir las diferencias en la velocidad - de absorción de nutrientes entre el,día y la noche.
+Si la absorción de nutrientes depende de la actividad fotosintética de las algas,que sólo es diurna,la diferencia en la velocidad de absorción de nutrientes respecto a las que se dan por la noche - se deberán a los autótrofos,y éstos ocuparán un papel más importante que los heterótrofos.
+Así ocurre en La Solana por lo que se refiere al fósforo y al amonio,señal evidente de que la actividad de los autótrofos es primordial en el proceso de asimilación de los nutrientes.
+El río es un elemento del paisaje L análogo en su función a los riñones del ù sistema circulatorio humano.
+Ambos son sistemas de drenaje que recogen,trasladan y modifican materiales que ù exportan o fuera del cuerpo o hacia el mar.
+Conocer la estructura,ensamblaje y funcionamiento del río pasa l por explorar los diversos compartimentos del ecosistema fluvial.
+Entre ù éstos hay dos de interés fundamental ù y escasamente estudiados,la zona hiporreica y el biofilm.
+Las variaciones de caudal propias de los ríos mediterráneos pueden imprimir un carácter especial a la dinámica de la zona hiporreica que no tienen los ríos de otras zonas climáticas.
+Por otra parte,la implicación del biofilm,como conjunto de organismos autótrofos y heterótrofos,en la dinámica de nutrientes es esencial en el balance energético del río y el reciclado de los materiales que transporta.
+Aunque el conocimiento de estos dos aspectos puede ayudar a responder cuestiones básicas de la ecología de los ríos como es el balance entre producción y respiración,su interés es también práctico.
+Efectivamente,buena parte de nuestros ríos vierten aguas residuales ricas en materia orgánica y nutrientes.
+En estas condiciones conocer la forma y eficiencia en que estos materiales son procesados supone conocer la capacidad de autodepuración del río.
+No debería plantearse el uso de los recursos que proporciona el río soslayando las capacidades y limitaciones que tiene como ecosistema.
+Los anticuerpos clónicos: la esperanza de una revolución médica.
+" Así lo proclamaba,el S de agosto de 1980,el titular más destacado del suplemento de ciencias del New York Times.
+Desde entonces,docenas de firmas del campo de la biotecnología han intentado que los anticuerpos monoclonales (ACM) - - cultivados en tumores de ratones - - sirviesen de fármacos contra esta o aquella enfermedad,desde el cáncer hasta las infecciones bacterianas.
+Por desgracia,tanta investigación apenas si ha dado fruto: sólo un fármaco terapéutico basado en los ACM - - el OKT3,de Ortho Pharmaceuticals - - ha sido aprobado por la Administración de Alimentos y Medicamentos (FDA) estadounidense.
+No obstante,parece que renace el entusiasmo por los monoclonales.
+Unas cuantas compañías perfeccionan técnicas de obtención de anticuerpos enteramente humanos,o " humanizados ".
+Esperan,alentadas por los resultados de las primeras pruebas clínicas,que esta nueva generación de anticuerpos supere algunos de los problemas endémicos de los anticuerpos monoclonales de múridos.
+El principal obstáculo con que tropezó el uso terapéutico de los anticuerpos múridos fue el propio sistema inmunitario que con ellos se trataba de reforzar.
+Muchos pacientes producen anticuerpos humanos antiratón (AHAR) cuando se les inyectan monoclonales múridos.
+La batalla que se entabla entonces entre proteínas humanas y de ratón reduce el efecto del fármaco,eliminado en poco tiempo de la corriente sanguínea,y a menudo causa de reacciones alérgicas.
+Además,como explica Robert E. Fildes,de Scotgen Biopharmaceuticals," cuando se introduce un anticuerpo de ratón en un organismo humano,el sistema inmunitario no reacciona con la misma eficacia que frente a un anticuerpo humano ".
+Pero es difícil producir anticuerpos humanos fuera del cuerpo.
+Los monoclonales de ratón,descubrimiento que le valió el premio Nobel a César Milstein y Georges Kohler en 1975,se obtienen mediante la fusión de un linfocito B de ratón - - leucocito del bazo,que produce anticuerpos pero es difícil de cultivar - - con una célula maligna de melanoma ; se produce entonces una célula híbrida inmortal,un hibridoma.
+En un tanque de fermentación,estas células crean anticuerpos y se multiplican sin cesar,lo que posibilita la producción masiva de anticuerpos múridos para casi cualquier antígeno que se inyecte en un ratón.
+Por desgracia,las células humanas B rehúyen el fundirse con células cancerosas.
+La capacidad que los ACM múridos tienen de dirigirse hacia un blanco celular concreto les ha propiciado un lugar en el lucrativo mercado de las pruebas de diagnóstico y de la detección por imágenes del cáncer.
+Incorporando radioisótopos en los monoclonales que se fijan a proteínas en la superficie de células cancerosas,pueden los médicos ver grupos de células malignas que serían invisibles con las técnicas acostumbradas de rayos X,tomografía de barrido o resonancia magnética.
+Y dado que los agentes que crean la imagen han de administrarse una o dos veces nada más,las reacciones de los AHAR carecen de importancia.
+Aun así,hasta ahora sólo ha sido autorizado un agente de esa naturaleza,un monoclonal múrido que se emplea en el diagnóstico del cáncer de colon.
+" De hace diez años acá,los ACM de ratón han tenido un éxito rotundo en las pruebas de diagnóstico invitro ",dice Fildes.
+" Pero,en ese mismo período,no hay compañía que intentase desarrollar anticuerpos de ratón con fines terapéuticos que no fracasase de mala manera.
+" Es el caso de Xoma,que a punto estuvo el año pasado de que la FDA aprobara su fármaco antiséptico basado en los ACM.
+En las pruebas clínicas definitivas se demostró que el producto era poco eficaz.
+Xoma,desde entonces,se ha quedado sin su gerente,ha cancelado las pruebas clínicas de otros cuatro medicamentos y reducido en un veinticinco por ciento su personal.
+Sin embargo,hay tanto que ganar en este lance que numerosas compañías persisten en su búsqueda de ACM terapéuticos: en 370.000 millones de pesetas se estima el mercado potencial solamente para el cáncer.
+Parece que la mayoría de las empresas especializadas en biotecnología coinciden hoy en que los anticuerpos terapéuticos sólo tendrán éxito si vencen a los AHAR.
+De ahí la importancia de que sean de procedencia humana.
+En realidad,los anticuerpos pueden engañar al sistema inmunitario del paciente aun cuando no sean del todo humanos.
+Basta con sustituir la región constante del anticuerpo múrido - - que tiene forma de Y - - por su equivalente humano para obtener un anticuerpo híbrido capaz de actuar,por así decirlo,subrepticiamente.
+Mejoró esta idea Greg Winter,del Consejo Británico de Investigaciones Médicas.
+A mediados de los años ochenta empalmó los genes de los sitios de unión de un anticuerpo de ratón - - y sólo éstos - - a los genes del resto de un anticuerpo humano ; obtuvo así un anticuerpo " humanizado ".
+No obstante,cuesta cierto trabajo que la versión humanizada se fije a los mismos antígenos que la original.
+" A veces tenemos que manipular las secuencias de aminoácidos del armazón del anticuerpo humanizado a fin de que los sitios de unión caigan en la forma tridimensional adecuada ",dice Fildes,cuya compañía ha aplicado la técnica de Winter a la humanización de más de veinte anticuerpos tomados de los ratones.
+" Saber cuáles hay que tocar es todo un arte.
+" Una joven empresa de California,Protein Design Labs (PDL),convierte esa maña en ciencia.
+Comparan,mediante modelaciones informáticas de proteínas,la secuencia de aminoácidos de los sitios de unión con una biblioteca de otros anticuerpos cuya estructura espacial se ha determinado por cristalografía de rayos X. Una vez el modelo ha identificado qué aminoácidos del ratón han de conservarse y cuáles deben reemplazarse,PDL sintetiza los nuevos genes y los inserta en células de mamíferos,que cultiva para producir los anticuerpos humanizados.
+Hasta ahora,PDL ha humanizado más de una docena de anticuerpos contra virus,cánceres e incluso moléculas de adhesión que intervienen en las inflamaciones.
+En los tres ensayos clínicos realizados hasta la fecha con sus ACM humanizados,no se ha detectado ninguna respuesta de los AHAR,según el portavoz de PDL,Peter Dworkin.
+Las más certeras armas de PDL no son,sin embargo,sus monoclonales en un 90 % humanos,sino unos ACM enteramente humanos que proceden de unas cepas de células compradas a Sandoz en abril.
+Esta firma había conseguido aislar,a partir del bazo de la víctima de un accidente de automóvil,células B humanas generadoras de anticuerpos contra citomegalovirus,causa de una infección oftálmica que afecta al 20 % de los enfermos de SIDA y a menudo termina en ceguera.
+Fundiendo esta célula B con un hibridoma humano / múrido,Sandoz creó los " triomas ",que medran en cultivo y producen muchos anticuerpos diferentes contra el virus.
+Por 560 millones de pesetas PDL adquirió cuatro de esos triomas,dos de los cuales - - el anti-citomegalovirus y el anti-hepatitis B - - han completado ya las pruebas clínicas iniciales de toxicidad y eficacia.
+Los triomas dependen aún demasiado de la suerte y del trabajo para que se les pueda considerar de utilidad general.
+GenPharm International cree haber encontrado una vía mejor para obtener ACM humanos.
+Partiendo de su experiencia en la creación de animales transgénicos - - que se usan como modelos en la investigación del cáncer y la fibrosis quística - -,consiguieron un ratón que produce anticuerpos humanos únicamente.
+Inactivaron los genes de cada una de las dos cadenas de anticuerpos originarias del animal,y seguidamente se insertaron y activaron genes de cadenas de anticuerpos humanas.
+El resultado fue un linaje de ratones " capaces de producir cualquier anticuerpo humano,incluso los que responden a antígenos humanos ",dice Jonathan MacQuitty,gerente de la firma.
+GenPharm acaba de anunciar que,al cabo de cuatro años y con un costo de 1000 millones de pesetas,había creado un segundo linaje de ratones productores de ACM humanos.
+Lo han logrado transfiriendo enormes bloques de ADN de humanos a roedores por medio de cromosomas artificiales obtenidos,gracias a ingeniería genética,en células de levadura.
+Al contrario de lo que hace con el resto de sus productos,GenPharm no va a vender este ratón.
+" Colaboraremos con los investigadores ",explica Howard B. Rosen,director de desarrollo de la compañía," pero este ratón pone huevos de oro: no nos gustaría nada que la gente nos lo copiase por las buenas.
+" Dentro de poco,quienes aíslen un anticuerpo humano podrán recurrir,para producirlo a gran escala en bacterias,a una técnica perfeccionada en el Instituto de Investigación Scripps.
+Dennis R. Burton,inmunólogo molecular de Scripps,multiplica ADN del anticuerpo y lo copia en virus " escaparate ".
+Cada virus,explica,es una pequeña unidad con el gen de un anticuerpo en su interior y la proteína codificada por ese gen en el exterior.
+Sobre una placa recubierta con el antígeno en cuestión se vierten los virus ; los que contengan los anticuerpos adecuados al antígeno se fijarán,y los demás serán eliminados.
+Burton infecta con los virus seleccionados Escherichia coli,que de esta forma se convierte en una fábrica bacteriana de anticuerpos.
+El proceso tiene una seria limitación,admite Burton.
+Como las bacterias carecen del azúcar necesario para fabricar el tallo del anticuerpo,reproducen solamente los brazos del mismo ; a este fragmento se le denomina Fab,y por sí solo neutraliza un buen número de virus,si bien,reconoce,no se sabe cómo.
+Aun así,algunas firmas biotecnológicas van mirando con otros ojos estos anticuerpos fragmentarios.
+Un anticuerpo entero es demasiado grande para atravesar la superficie de muchos tumores ; un pedazo,en cambio,puede llegar a sitios que a aquél le serían inaccesibles.
+Pero los fragmentos son eliminados del torrente sanguíneo en cuestión de horas.
+" Es un arma de dos filos ",dice Thomas J. McKearn,presidente de Cytogen.
+" Un ACM íntegro pasará por el lecho circulatorio del tumor muchas más veces que sus trozos.
+" En Scotgen,y en otros centros,enlazan dos anticuerpos para crear un tercero " biespecífico " en forma de X ; por uno de sus extremos se fija a una célula enferma y por el otro a un leucocito,con lo que arrastra a los soldados inmunitarios hacia el enemigo.
+Medarex inició hace poco pruebas clínicas con un fármaco de esta especie,concebido contra los cánceres de mama y de ovarios.
+Pero el proceso de fabricación de este tipo de productos - - se lamenta Fildes - - es largo,tortuoso y muy caro.
+Sin duda alguna,todas estas técnicas son mucho más costosas que las de los viejos ACM múridos,y m siquiera ofrecen garantías.
+El antiséptico monoclonal humano de Centocor apenas si pasó con mejor fortuna que la versión múrida de Xoma las pruebas definitivas de eficacia.
+De los 31.000 millones de pesetas que invirtió en su desarrollo,sólo ha recuperado un 12 % en ventas.
+McKearn ve en esto un signo de que es demasiado pronto para desechar los monoclonales de ratón.
+" Hay en la bibliografía farmacéutica todos los ejemplos que se quiera de gente que hizo caso omiso del sentido común y se subió sin más ni más al carro de la humanización ",afirma.
+Pero a veces el carro es verdadero carro de celebración,con sus guirnaldas,sus flores y sus regalos.
+Fractales: Compresión de imágenes digitales.
+Cuando el investigador de IBM Benoit B. Mandelbrot publicó hace diez años La geometría fractal de la naturaleza,pocos imaginarían que las preciosas figuras de inagotable detalle que él llamó fractales podrían también un día mejorar la recepción de las emisiones de televisión y hacer que las imágenes sean parte del uso corriente del ordenador.
+Dos matemáticos del Instituto de Tecnología de Georgia,Michael F. Barnsley y Alan D. Sloan,sí concibieron tal perspectiva.
+Como quiera que las imágenes del mundo real suelen estar compuestas por numerosas configuraciones complejas que se repiten a diversos tamaños - - en otras palabras,fractales - -,creyeron que debía haber una manera de traducir las figuras a ecuaciones fractales.
+Las imágenes así codificadas requerirían menos datos - - menos espacio de almacenamiento en disco - -,y su transmisión sería más rápida.
+Para 1987,dichos investigadores habían elaborado ya con suficiente precisión su idea como para patentarla,conseguir de inversores noruegos 62 millones de pesetas en concepto de capital inicial y crear Iterated Systems en Norcross.
+Pero no les ha sido fácil convertir en beneficio tangible la potencial rentabilidad de su invención.
+Encontraron un formidable competidor en la técnica de compresión de imágenes desarrollada por el Grupo Unido de Expertos Fotográficos (GUEF) de la Organización Internacional de Normalización.
+En ella se utiliza un método matemático bien conocido.
+La transformada de coseno discreta,para comprimir los ficheros en un 90 a 95 %,lo que equivale a relaciones de compresión entre 10: 1 y 20: 1. La técnica del GUEF presenta otra ventaja: al tratarse de una norma industrial,su uso es gratuito.
+Las técnicas matemáticas que sustentan la compresión fractal,por otra parte,están todavía en mantillas.
+La compresión fractal ha empezado a estar a la altura,o a superar incluso,a la del GUEF en al menos tres características importantes: velocidad,calidad y robustez.
+Hasta cierto punto,las tres son mutuamente excluyentes: cuanto mayor es la compresión,menor el fichero de imagen,pero requerirá también más tiempo y creará más elementos espurios.
+La técnica del GUEF tarda tanto en descomprimir una imagen como en comprimirla,y la traducción en píxeles ofrece un aspecto característico de " enladrillado " cuando la relación de compresión excede de 20: 1. Iterated sigue una vía diferente.
+Su algoritmo trata la imagen como si se tratase de un rompecabezas que estuviese compuesto por muchas piezas solapantes,algunas de ellas similares.
+El soporte lógico toma cada pieza y,por medio de una fórmula fractal,transforma su tamaño,forma y color hasta que coincida con otra porción de la imagen.
+Aplicar tal proceso a cada pieza del rompecabezas lleva cierto tiempo ; la compresión fractal es lenta.
+Pero produce un fichero de imagen mucho más pequeño,que no contiene nada más que los números necesarios para determinar las relaciones matemáticas entre las piezas,y no los que se necesitarían para dibujar realmente cada pieza.
+Este enfoque ofrece ciertas ventajas.
+Reconstruir una imagen a partir de números es un trabajo relativamente rápido ; el soporte lógico de vídeo de Iterated puede descomprimir decenas de imágenes por segundo sin necesidad de un equipo especial.
+La calidad depende de la exactitud de los números ; conceder al algoritmo de compresión un tiempo más largo o un procesador que se dedique sólo a su cálculo proporcionará,pues,mejores imágenes.
+Y los elementos espurios que se generan a relaciones de compresión más altas dan a la imagen cierto efecto impresionista,que contrasta con la sensación de enladrillado típica de la otra técnica.
+Quizás un espejismo,Los indicadores económicos pueden ser engañosos.
+Cada día mejor,cada día peor.
+A principios de este año,cuando EE. UU. anunció que el producto nacional bruto (PNB) se había apuntado otro trimestre de crecimiento,y al mismo tiempo recibían cupones de comida más ciudadanos que nunca,un observador ingenuo se habría sentido confundido.
+Los indicadores que tanto se citan,el PNB,la tasa de desempleo,el índice de precios al consumo (IPC),¿dicen realmente algo sobre el grado de bienestar económico del ciudadano medio? Si no es así,¿sobre qué estadísticas deberían basar sus decisiones los responsables de la política económica? Algunos economistas - - por ejemplo,Orley C. Ashenfelter,de Princeton - - consideran la pregunta " anticuada " y de poca trascendencia ; otros,como Amartya Sen,de Harvard,creen que habría que levantar la vista de las cifras puramente monetarias para concentrarse en indicadores como la mortalidad,el analfabetismo,el crimen y el número de personas sin hogar.
+Nadie discute que las estadísticas macroeconómicas son inexactas y potencialmente engañosas,dice Christina D. Romer,de la Universidad de California en Berkeley.
+Pero añade que cuando su inexactitud mantiene un mismo sentido,son casi tan aprovechables como si fuesen correctas.
+Por ejemplo,desde hace mucho abundan las quejas por que la tasa de desempleo no incluya a los trabajadores desanimados que ya no buscan empleo,con lo que se subestima el número real de personas sin trabajo.
+No obstante,aún así cabe comparar las cifras actuales con los datos anteriores de manera útil," a menos que haya alguna razón para creer que esta recesión produce más trabajadores desanimados de lo habitual ",dice Romer.
+(Parece,por cierto,que eso es lo que está pasando).
+En períodos de pocos meses o incluso de un año,sostiene Victor R. Fuchs,de Stanford,los indicadores macroeconómicos habituales " son enteramente válidos ".
+El número de trabajadores desanimados y,aún más,los hábitos de compra en que se basa el IPC o los factores ponderadores de la actividad industrial que se emplean en la determinación del PNB no cambian con tanta rapidez.
+Pero a lo largo de una generación,afirma,los cambios de estructura económica de una nación pueden hacer que los datos pasados y presentes se tornen inconmensurables.
+Y tal inconmensurabilidad se da,por ejemplo,y es un ejemplo básico,en los datos que sirven para estimar la productividad global de los EE. UU. Los estadísticos corrigen el efecto de la inflación refiriendo los precios de las distintas entradas a cierto año,en este caso 1987.
+Si bien es verdad que se necesita algún tipo de ajuste,indica Robert J. Gordon,de la Universidad del Noroeste,ese proceso de normalización distorsiona las cifras de mala manera,ya que,aunque los precios de la mayoría de las cosas han subido,los de algunas otras,como los ordenadores y los equipos electrónicos,han caído en picado.
+La productividad se ha subestimado en aproximadamente un punto de porcentaje en cada año anterior a 1987 (cuando los ordenadores costaban mucho más) y sobreestimado en la misma cuantía en los años posteriores (en los que su precio ha bajado mucho).
+Por otra parte,además de distorsionar los indicadores,la cambiante estructura de la economía puede convertir estadísticas de ciertos tipos en algo fundamentalmente engañoso.
+" Desde la segunda Guerra Mundial hasta los setenta ",comenta Greg J. Duncan,de la Universidad de Michigan," la renta media daba cuenta de cómo les iba tanto a los niveles altos de ingresos y a los bajos ".
+Pero en los ochenta,observa Duncan,la desigualdad aumentó,con lo que las estadísticas de renta reflejaron la situación de muchos menos ciudadanos.
+Los ingresos de la quinta parte por arriba de la población aumentaron modesta pero apreciablemente mientras que los de la quinta parte de abajo sufrieron un brusco descenso.
+" La mediana es ciega ",concluye.
+Podría prestársele mayor atención a la distribución de la renta si los datos estuviesen más al alcance de la mano,arguye Duncan: en los EE. UU.,donde los indicadores clásicos se publican de manera periódica y regular,la distribución de la renta o el número de personas que reciben asistencia pública se calculan,en cambio,con menor frecuencia y se publican por organismos dispares con retrasos que van de unos meses hasta casi un año.
+En España,igualmente,la distribución de la riqueza por segmentos de población es en general un dato mucho menos difundido que cualquier otro indicador.
+
