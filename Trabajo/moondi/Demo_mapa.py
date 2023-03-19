@@ -3,7 +3,6 @@ import streamlit as st
 #importa pandas
 import pandas as pd
 #parte del mapa que se va a añadir a streamlit
-!pip install folium
 import folium
 from folium.plugins import Search
 import geopandas as gpd
