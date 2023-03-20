@@ -152,7 +152,8 @@ if st.button('Filtrar'):
 else: 
 
     import pandas as pd
-    df = pd.read_csv(r'\Users\usuario\entorno\master-ua\Trabajo\moondi\archivo (4).csv', na_values=None)
+    #df = pd.read_csv(r'\Users\usuario\entorno\master-ua\Trabajo\moondi\archivo (4).csv', na_values=None)
+    df = pd.read_csv('https://raw.githubusercontent.com/igl35/master-ua/main/Trabajo/moondi/archivo%20(4).csv', na_values=None)
 
     #mostramos el head del dataframe
     original_filtro_nombre = df
